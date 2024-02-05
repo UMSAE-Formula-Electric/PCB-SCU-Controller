@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=3v3 Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=D4-3
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=3v3 Pin=U2-3
+Removed Pin From Net: NetName=Ph0 OSC In Pin=X1-1
+Removed Pin From Net: NetName=Ph1 OSC Out Pin=X1-2
+Removed Member From Class: ClassName=3-CAN Member=C19
+Removed Member From Class: ClassName=3-CAN Member=D4
+Removed Member From Class: ClassName=3-CAN Member=R9
+Removed Member From Class: ClassName=3-CAN Member=R10
+Removed Member From Class: ClassName=3-CAN Member=R11
+Removed Member From Class: ClassName=3-CAN Member=U2
+Change Footprint: Footprint Not Found CAPC0603(1608)100_M
+Change Component Library : Designator=C1 Old Library=Altium Content Vault New Library=ECS-80-18-30-JGN-TR.IntLib
+Change Managed Component Library Link : Designator=C1 Old VaultGUID= New VaultGUID= Old ItemGUID=25A70CD4-BACE-4BD5-8F22-D67D3FB776CF New ItemGUID= Old RevisionGUID=CF6F08CE-D42A-4C1B-9E3D-32472752FA1D New RevisionGUID=
+Change component parameters: Designator = "R73" ("R73"); Footprint = "1608[0603]"; UniqueID = "\MMJTIXUM" ("\MMJTIXUM")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R75" ("R75"); Footprint = "1608[0603]"; UniqueID = "\NZZTOCVD" ("\NZZTOCVD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R77" ("R77"); Footprint = "1608[0603]"; UniqueID = "\MOLWDMNC" ("\MOLWDMNC")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R79" ("R79"); Footprint = "1608[0603]"; UniqueID = "\PJSFHIIX" ("\PJSFHIIX")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XTAL_ECS-80-18-30-JGN-TR
+Added Pin To Net: NetName=Ph1 OSC Out Pin=X1-1
+Added Pin To Net: NetName=Ph0 OSC In Pin=X1-2
+Added Member To Class: ClassName=1-Controller Member=Component X1 ECS-80-18-30-JGN-TR
+Added Room: Name=1-Controller
+Added Room: Name=2-Power
+Added Room: Name=3-CAN
+Added Room: Name=4-Connector
+Added Room: Name=5-LORA
+Added Room: Name=6-Sensors
+Added Room: Name=7-Fusing
+Added Room: Name=8-Other_Inputs
